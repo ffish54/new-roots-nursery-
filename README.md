@@ -5,7 +5,7 @@ this project is an advertisement  website for my family's small plant nursery. t
 
 My family grows many plants, and we are planning on selling many of our excess or specific plants we have grown to sell, at first we primarily sold from Facebook marketplace this works but as our small business grew, I thought I could develop a website to advertise and inform potential local customers about our business as we could post links to this website in popular online areas for the community and link to the site through leaflets, this will increase the awareness of our business to the community, which may result in more customers 
 
-###user stories
+### User Stories
 smaller goals based on user storys to create the website so that it fully fulfills its purpose, user storys are based on quotes from local neighbors and family.
 
 User Story:
@@ -78,7 +78,11 @@ Test layout on different screen sizes.
 Adjust spacing and font sizes for mobile phone screen size.
 
 
-##design
+## Design
+
+### Design Choices 
+i want this website to relate to nature and plants as it is for a neurcary, i am planing to have a green colour scheme as green represents plants and a few browns to represent earthy tones for dirt and soil. 
+
 
 
 
