@@ -81,8 +81,8 @@ Adjust spacing and font sizes for mobile phone screen size.
 ## Design
 
 ### Design Choices 
-i want this website to relate to nature and plants as it is for a neurcary, i am planing to have a green colour scheme as green represents plants and a few browns to represent earthy tones for dirt and soil. 
+I am planning to have a green colour scheme, as green represents plants, and a few browns to represent earthy tones for dirt and soil. I am planning on adding many images of plants we have grown to show customers the quality and look of different plants. I plan on having a stylised background of a floral or vine pattern to make the website more appealing. I plan to use smoother angles on sections and images to make the website fit with the calm nature style. 
 
-
+### Wireframes
 
 
