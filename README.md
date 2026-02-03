@@ -84,5 +84,7 @@ Adjust spacing and font sizes for mobile phone screen size.
 I am planning to have a green colour scheme, as green represents plants, and a few browns to represent earthy tones for dirt and soil. I am planning on adding many images of plants we have grown to show customers the quality and look of different plants. I plan on having a stylised background of a floral or vine pattern to make the website more appealing. I plan to use smoother angles on sections and images to make the website fit with the calm nature style. 
 
 ### Wireframes
+wireframes are attatched to this read me file
+<img width="1024" height="728" alt="wireframe_1_about_us_desktop" src="https://github.com/user-attachments/assets/86b2cfa5-db8d-4102-bcbf-5456a16bbf43" />
 
 
