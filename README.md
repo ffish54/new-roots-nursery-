@@ -85,6 +85,19 @@ I am planning to have a green colour scheme, as green represents plants, and a f
 
 ### Wireframes
 wireframes are attatched to this read me file
-<img width="1024" height="728" alt="wireframe_1_about_us_desktop" src="https://github.com/user-attachments/assets/86b2cfa5-db8d-4102-bcbf-5456a16bbf43" />
+<img width="1024" height="728" alt="wireframe_1_about_us_desktop" src="https://github.com/user-attachments/assets/aaf50038-a62d-4361-812e-395b99bc3ce4" />
+
+On the first page, this page should welcome the user and briefly describe the website and buisness. I plan on having a simplistic layout with a navigation section in the heading, each link leads to another page on this website to allow the user to navigate the website, and in the header on the other side of the navigation section, there is a small logo for the website. Below the nave section is a hero image that I plan to showcase a collection of the plants we have. Under this is a welcoming text introducing the website and business of New Roots Nursery. The next text segment explains more about our plants and how we grow and cultivate them, and what types we usually tend to sell. Besides, this is a small image showcasing more of our plants. a text section describing our prices and deals for our plants next to this text is an image showing off more plants and slightly below the text is a button labeled view prices, this button links to the our plants section so a user could easily access this page and view the prices of our plants and quickly see if they want to continue using this website and our business. The last test segment will describe how we are based in Wesbeach and what areas we plan on delivering to. Next to this is another image depicting a few plants we sell, but below this is a button labeled contact us which links to the contact us page, where users can easily access this page and find the information to contact us. At the bottom of the page is a footer with a copyright label I use this to make the bottom feel less empty and make the website seem more professional.
+
+<img width="1028" height="728" alt="wireframe_2_about_us_tablet" src="https://github.com/user-attachments/assets/776219eb-11f4-4470-9aed-2e6622384cd3" />
+
+On the tablet the page's layout changes, so each of the text segments are against the sides of the screen due to the smaller size of this screen having the same open space as the desktop style can make the segments seem clustered together, the first and third segment are against the left side and the second is against the right side this is so the the space sill feels evenly used.
+
+<img width="712" height="728" alt="wireframe_3_about_us_mobile" src="https://github.com/user-attachments/assets/d27b6cdf-c296-475f-a361-4babebbe26e3" />
+
+On the mobile version of the page the navigation section is changed to have a menu icon that expands when clicked into a drop down list of links to each page because of mobile screens being much smaller it can be difficult to click the links and they can take up too much of the screen, in this version the layout is changed to have each image and text segment stacked in the center due to mobiles small screen size this page likely need to be able to scroll through each segment as they will not all fit on the screen at a suitable size to clearly read the text.
 
 
+<img width="1024" height="1800" alt="wireframe_4_our_plants_desktop" src="https://github.com/user-attachments/assets/66d27acd-5098-4e58-a3dc-e59c17d24c1a" />
+
+Our plants is the second page of the website, the goal of this page is to showcase all our plants descibe them and price them so the user can decide if they want to buy some plants. the header includes the logo image and navigation links described earler
