@@ -100,4 +100,18 @@ On the mobile version of the page the navigation section is changed to have a me
 
 <img width="1024" height="1800" alt="wireframe_4_our_plants_desktop" src="https://github.com/user-attachments/assets/66d27acd-5098-4e58-a3dc-e59c17d24c1a" />
 
-Our plants is the second page of the website, the goal of this page is to showcase all our plants descibe them and price them so the user can decide if they want to buy some plants. the header includes the logo image and navigation links described earler
+Our plants is the second page of the website. The goal of this page is to showcase all our plants, describe them, and price them so the user can decide if they want to buy some plants. The header includes the logo image and navigation links described earlier, and a small description of our selection of plants just below the navigation header. in rows of three are cards based on bootstrap cards with an image of the plant the name, a small description of the plant how to maintain it and the price each card is for a different plant so there will be a few plants, use of the card segment is used to separate each plant and makes each of them unique and so information isn't confused for different plants, a scroll feature will be added if it is needed from the amount of cards so that the user can easily look through all the different plants if there are too many too fit on the screen.
+
+<img width="1024" height="1800" alt="wireframe_5_our_plants_tablet" src="https://github.com/user-attachments/assets/8e5dcfa0-45ae-4239-ab32-98fd9d950dbb" />
+
+On the tablet version of the Our Plants page, the cards are bigger and have been changed from 3 cards a row to 2 cards a row, as tablets have a slightly smaller screen. This change allows for each card to be bigger in each row, so that the user can easily see each card on the smaller screen 
+
+<img width="746" height="1800" alt="wireframe_6_our_plants_mobile" src="https://github.com/user-attachments/assets/a23c6371-32c6-4918-ad38-6d57aad8765f" />
+
+On the mobile version of the Our Plants page, the navigation element has the dropdown menu, the same as the one mentioned earlier in the mobile version of About Us, and the cards fill the screen with one card per row, as mobile screens are much smaller this larger sizes allow users to read the cards with ease.
+
+<img width="1026" height="1296" alt="wireframe_7_contact_us_desktop" src="https://github.com/user-attachments/assets/071b62f7-bec0-492b-861d-19e87c0fe85f" />
+
+the third page is the Contact Us page in the headder of this page has the website logo and the navigation section below this is a hero iamage of a large collection of our plants, under this is a text box detailing our contact information the area we are located in, our email, phone number, any scoical media links, and recomened hours to contact us. 
+
+
