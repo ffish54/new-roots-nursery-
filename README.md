@@ -112,6 +112,12 @@ On the mobile version of the Our Plants page, the navigation element has the dro
 
 <img width="1026" height="1296" alt="wireframe_7_contact_us_desktop" src="https://github.com/user-attachments/assets/071b62f7-bec0-492b-861d-19e87c0fe85f" />
 
-the third page is the Contact Us page in the headder of this page has the website logo and the navigation section below this is a hero iamage of a large collection of our plants, under this is a text box detailing our contact information the area we are located in, our email, phone number, any scoical media links, and recomened hours to contact us. 
+The third page is the Contact Us page in the header of this page has the website logo and the navigation section below this is a hero image of a large collection of our plants, under this is a text box detailing our contact information, including the area we are located in, our email, phone number, any social media links, and recommended hours to contact us. Below this will be a small gallery of images showing off a variety of our plants.
 
+<img width="1026" height="1296" alt="wireframe_8_contact_us_tablet" src="https://github.com/user-attachments/assets/03c5e5d6-3895-480d-ade1-47c82f331a72" />
 
+The tablet version of the Contact Us page will have its gallery and text box enlarged so that they can be viewed on the smaller screens of a tablet.
+
+<img width="783" height="968" alt="image_2026-02-11_203804230" src="https://github.com/user-attachments/assets/63f49282-9034-48f5-b6d1-4d0eff5d087f" />
+
+The mobile version of Contact Us has the navigation section as a dropdown button, and the gallery is enlarged and rearranged so that there is one per row, so they are easier to view on a mobile screen by the user. 
