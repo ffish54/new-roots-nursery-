@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  
 }
 
 
@@ -13,12 +13,11 @@ html, body {
 header {
   background-color: rgb(5, 135, 50);
   padding: 0 1rem;
-  position: fixed;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  top: 0;
-  width: 100%;
+  padding-top: 70px;
+ ;
 }
 
 /*nav in dropdown menu from love running tutorial - code instatute*/
@@ -59,13 +58,13 @@ body {
   overflow-y: auto;
   position: relative;
   content: "";
-  position: fixed;
   background-image: url("../images/background-vines.webp"); /* image from https://pixabay.com/illustrations/background-pattern-vines-design-6569058/ */
   background-color: rgba(255, 255, 255, 0.4);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-blend-mode: lighten;
+  min-height: 200vh;
 }
 
 .selected {
@@ -73,8 +72,8 @@ body {
 }
 
 #hero {
-  width: 100vw;
-  height: 100%;
+  min-width: 100vw;
+  min-height: 100vh;
   display: flex;
   object-fit: cover;     
   object-position: center;
@@ -88,15 +87,14 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
 }
 
 .item_txt {
-  width: 250px;
+  min-width: 250px;
 
   
 }
 .item_img {
-  width: 400px;
+  min-width: 400px;
 }
 
