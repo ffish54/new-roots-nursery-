@@ -120,4 +120,20 @@ The tablet version of the Contact Us page will have its gallery and text box enl
 
 <img width="783" height="968" alt="image_2026-02-11_203804230" src="https://github.com/user-attachments/assets/63f49282-9034-48f5-b6d1-4d0eff5d087f" />
 
-The mobile version of Contact Us has the navigation section as a dropdown button, and the gallery is enlarged and rearranged so that there is one per row, so they are easier to view on a mobile screen by the user. 
+The mobile version of Contact Us has the navigation section as a dropdown button, and the gallery is enlarged and rearranged so that there is one per row, so they are easier to view on a mobile screen by the user.
+
+
+###development
+Index:
+the background image used is from https://pixabay.com/illustrations/background-pattern-vines-design-6569058/
+![background-vines](https://github.com/user-attachments/assets/f5627204-25cd-414a-9294-c1bb5c5f2d2f)
+font from https://fonts.google.com/specimen/EB+Garamond
+
+The menu navigation drop down is mostly used from the Love Running project with some altered css styling.
+
+Development: when trying to change the opacity of the background image the whole website's opacity changed as the background was linked to the body's css, after researching I found I can use background-color: rgba(255, 255, 255, 0.4);, where the 4th number setting the opacity, and background-blend-mode: lighten; to change the backgrounds opacity 
+Development: 
+
+
+
+

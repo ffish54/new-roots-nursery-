@@ -125,6 +125,15 @@ h2 {
   border-color: rgb(4, 115, 21);
 }
 
+#photos img {
+  width: 100%;
+  line-height: 1em;
+}
+
+#photos {
+  line-height: 0;
+}
+
 @media screen and (max-width: 576px) {
   .container {
     flex-direction: column;
@@ -176,4 +185,19 @@ h2 {
   .plants > * {
     width: calc(50% - 1rem);
   }
+
+  #photos {
+    column-count: 3;
+    column-gap: 0;
+  }
+
+
+}
+
+@media screen and (min-width:1024px) {
+   #photos {
+    column-count: 4;
+    column-gap: 0;
+  }
+  
 }
