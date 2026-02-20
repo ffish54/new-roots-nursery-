@@ -1,11 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  
 }
 
-
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -42,11 +41,9 @@ nav {
   display: none;
   top: 100%;
   z-index: 100;
-  
 
-  right: 0rem;     
+  right: 0rem;
   width: 115px;
-  
 }
 
 #nav-toggle:checked ~ nav {
@@ -64,10 +61,10 @@ nav {
 /*end of love running tutorial code*/
 
 section {
-  display: flex; 
+  display: flex;
   flex-direction: column;
   padding: 1rem;
-  justify-content: center; 
+  justify-content: center;
   align-items: center;
 }
 
@@ -96,14 +93,13 @@ h2 {
   font-weight: bold;
 }
 
-#hero {
-  width: 100%;
+#hero img {
   display: flex;
-  object-fit: cover;     
+
   object-position: center;
-  justify-content: center;    
-  align-items: center;      
- 
+  justify-content: center;
+  align-items: center;
+  width: 400px;
 }
 
 .container {
@@ -111,53 +107,57 @@ h2 {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  gap: 2rem; 
+  gap: 2rem;
 }
 
 .item_txt {
   width: 250px;
-
-  
 }
-.item_img {
+.item_img img {
   width: 400px;
 }
 
+.card {
+  background-color: rgb(5, 140, 25);
+}
+.list-group-item {
+  background-color: rgb(5, 140, 25);
+  border-color: rgb(4, 115, 21);
+}
 
-
-@media screen and (max-width: 576px){
+@media screen and (max-width: 576px) {
   .container {
     flex-direction: column;
     gap: 1rem;
     align-items: center;
-    
   }
 
   .item_txt {
-  width: 100%;
-  text-align: center;
-}
+    width: 100%;
+    text-align: center;
+  }
 
-.item_img img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-  
+  .item_img img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
   .container_2 {
     flex-direction: column-reverse;
   }
 
-  
+  .card {
+    width: 100%;
+  }
 }
 
-
-@media screen and (min-width: 768px) and (max-width: 1024px){
-  .container_1{
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .container_1 {
     justify-content: flex-start;
-    gap: 10rem
+    gap: 10rem;
   }
-  .container_2{
+  .container_2 {
     justify-content: flex-end;
   }
   .item_img {
@@ -165,5 +165,15 @@ h2 {
   }
   .item_txt {
     width: 300px;
+  }
+
+  .plants {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+
+  .plants > * {
+    width: calc(50% - 1rem);
   }
 }
