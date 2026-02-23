@@ -43,7 +43,7 @@ nav {
   z-index: 100;
 
   right: 0rem;
-  width: 115px;
+  width: 150px;
 }
 
 #nav-toggle:checked ~ nav {
