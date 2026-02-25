@@ -122,8 +122,13 @@ The tablet version of the Contact Us page will have its gallery and text box enl
 
 The mobile version of Contact Us has the navigation section as a dropdown button, and the gallery is enlarged and rearranged so that there is one per row, so they are easier to view on a mobile screen by the user.
 
+###Features
+<img width="274" height="252" alt="image_2026-02-25_112421923" src="https://github.com/user-attachments/assets/7b8dd655-1424-4abf-b140-58c082657126" />
+Nav - The navigation tab is a drop down from a clickable menu button, this causes a box containing 3 buttons to apperar 
 
-###development
+
+
+###Development
 Index:
 the background image used is from https://pixabay.com/illustrations/background-pattern-vines-design-6569058/
 ![background-vines](https://github.com/user-attachments/assets/f5627204-25cd-414a-9294-c1bb5c5f2d2f)
