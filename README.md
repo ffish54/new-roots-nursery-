@@ -127,7 +127,13 @@ The mobile version of Contact Us has the navigation section as a dropdown button
 Navigation - The navigation tab is a drop down from a clickable menu button, this causes a box containing 3 buttons to appear each of the three buttons link to the 3 pages of the site, About Us, Our Plants and Contact Us. this allows the user to traverse the pages easily without needing to use the browsers back button
 
 <img width="1235" height="583" alt="image_2026-02-25_164706779" src="https://github.com/user-attachments/assets/c895a0ad-0b7d-4b6b-8bdb-dd06d9422aeb" />
-Introduction - 
+Introduction - This text acts as an introduction to the website and provides the user with the basic information of the website so they know the purpose and what the website provides.
+
+<img width="285" height="172" alt="image_2026-02-26_195145992" src="https://github.com/user-attachments/assets/ed355f60-2240-427c-be08-5d9a22095b10" />
+Quick access Buttons: These buttons on the About Us page link to other pages on the site the View Prices button links to the Our Plants page and the Contact Us button links to the Contact Us page this allows the user to access these pages easier and view information they may want to see quicker as some potential customers may only want to see the prices so they can use the View prices button on the front page
+
+
+
 
 
 
