@@ -180,8 +180,14 @@ Contact us: this pages formats correctly as the images in the gallery are stacke
 
 tablet screens between 576px wide and 1024px wide:
 
+<img width="582" height="614" alt="image" src="https://github.com/user-attachments/assets/881e91cd-0ba5-47c3-a35b-b92987f2e6a7" />
+About Us: this page formats correctly the formatting is changed so that the items on screen are arranged to fill up the screen more so that the page can easily be viewed on this slightly smaller screen.
 
+<img width="592" height="606" alt="image" src="https://github.com/user-attachments/assets/c0f88885-b339-447c-8b0a-849c6f9aacce" />
+Our Plants: this page is formated correctly the cards are formated for two per row and are bigger this is to allow them to be bigger on the smaller tablet screen so the user can easlily see the contents of the cards.
 
+<img width="448" height="458" alt="image" src="https://github.com/user-attachments/assets/5b091ff5-3c41-44a5-8e6f-f4954a79857e" />
+Contact Us: this page is formatted correctly the gallery format is altered so there is only 3 columns so the images can be bigger allowing users to easily view the images on the smaller screen 
 
 
 ###Validator Testing
