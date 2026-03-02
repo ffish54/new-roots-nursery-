@@ -122,7 +122,7 @@ The tablet version of the Contact Us page will have its gallery and text box enl
 
 The mobile version of Contact Us has the navigation section as a dropdown button, and the gallery is enlarged and rearranged so that there is one per row, so they are easier to view on a mobile screen by the user.
 
-###Features
+##Features
 <img width="274" height="252" alt="image_2026-02-25_112421923" src="https://github.com/user-attachments/assets/7b8dd655-1424-4abf-b140-58c082657126" />
 
 Navigation - The navigation tab is a drop down from a clickable menu button, this causes a box containing 3 buttons to appear each of the three buttons link to the 3 pages of the site, About Us, Our Plants and Contact Us. this allows the user to traverse the pages easily without needing to use the browsers back button
@@ -137,27 +137,58 @@ Quick access Buttons: These buttons on the About Us page link to other pages on 
 
 <img width="1271" height="612" alt="image_2026-03-02_155942191" src="https://github.com/user-attachments/assets/ce2f7561-000c-410b-9de2-2559fa7f9345" />
 
-Plants desiption: these cards each display images of a plant its name and a small description of the plant, then it displays the price, amount and advice to grow the plant. this allows the user to view every plant we sell, the plants a re arrainged in a grid that adjusts to screen size so it can be easily viewed by the user.
+Plants description: these cards each display images of a plant its name and a small description of the plant, then it displays the price, amount and advice to grow the plant. this allows the user to view every plant we sell, the plants a re arraigned in a grid that adjusts to screen size so it can be easily viewed by the user.
 
+<img width="1280" height="518" alt="image" src="https://github.com/user-attachments/assets/e3b38923-b29f-4996-a134-ec0cca5a8c29" />
 
+Contact Us info: this text on the Contact Us page describe our contact information, and how users can contact us to inquire about buying a plant or just to ask questions this allows the user to know this information including our email, phone number, location and our open times so they know when to contact us.
 
+<img width="1276" height="513" alt="image" src="https://github.com/user-attachments/assets/b9c226fb-0f76-4522-8dca-238cd3952b72" />
 
+Gallery: this is a small gallery of images from around the new roots nursery this allows the user to view images around the nursery this also makes the Contact Us page more decorated and visually appealing.
 
-
-
-
-
-
-###Development
+##Development
 Index:
 the background image used is from https://pixabay.com/illustrations/background-pattern-vines-design-6569058/
 ![background-vines](https://github.com/user-attachments/assets/f5627204-25cd-414a-9294-c1bb5c5f2d2f)
 font from https://fonts.google.com/specimen/EB+Garamond
 
+<img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/33518a91-315f-45ae-b658-5b4a1227cc50" />
+icon is from Font Awesome, https://fontawesome.com
+
+buttons and page templates from bootstrap
+
 The menu navigation drop down is mostly used from the Love Running project with some altered css styling.
 
 Development: when trying to change the opacity of the background image the whole website's opacity changed as the background was linked to the body's css, after researching I found I can use background-color: rgba(255, 255, 255, 0.4);, where the 4th number setting the opacity, and background-blend-mode: lighten; to change the backgrounds opacity 
-Development: 
+
+##Testing
+
+###links 
+All button links work as intended and link to the correct page including the easy link buttons on the About Us page 
+
+###screen sizes 
+Phone screen sizes under 576px wide:
+<img width="321" height="548" alt="image" src="https://github.com/user-attachments/assets/01275425-6a01-4e23-a971-393f4e5881de" />
+About Us: The page formats correctly on mobile screens as the text and images are now vertically stacked to be easily viewed
+
+<img width="328" height="555" alt="image" src="https://github.com/user-attachments/assets/07daeeea-6310-4d3a-93ac-b57a468e3178" />
+Our Plants: The page formats correctly as each of the cards are also stacked vertically so each card is viewed easily
+
+<img width="310" height="546" alt="image" src="https://github.com/user-attachments/assets/bc6bdb06-d024-4fb5-b242-914c305d54bb" />
+Contact us: this pages formats correctly as the images in the gallery are stacked so that they can easily fit on the smaller mobile screen to be clearer for the user
+
+tablet screens between 576px wide and 1024px wide:
+
+
+
+
+
+##Deployment: 
+To deploy this website I entered the settings of the in the repository for new roots nursery then scrolled to the pages section and clicked deploy from branch, then waited and refreshed until the link to the deployed website appeared.
+
+
+
 
 
 
