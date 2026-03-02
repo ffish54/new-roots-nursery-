@@ -184,6 +184,10 @@ tablet screens between 576px wide and 1024px wide:
 
 
 
+###Validator Testing
+HTML: No errors were found when using the official W3C validator on each page
+CSS: No errors were found when using the official (Jigsaw) validator
+
 ##Deployment: 
 To deploy this website I entered the settings of the in the repository for new roots nursery then scrolled to the pages section and clicked deploy from branch, then waited and refreshed until the link to the deployed website appeared.
 
