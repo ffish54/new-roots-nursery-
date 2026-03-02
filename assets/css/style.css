@@ -162,14 +162,27 @@ h2 {
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   .container_1 {
     justify-content: flex-start;
-    gap: 10rem;
+    gap: 5rem;
   }
   .container_2 {
     justify-content: flex-end;
+    gap: 5rem;
+    flex-wrap: wrap;
   }
+
+
   .item_img {
-    width: 200px;
+  max-width: 250px;
   }
+
+.item_img img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  
+}
+
   .item_txt {
     width: 300px;
   }
