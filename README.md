@@ -8,7 +8,7 @@ My family grows many plants, and we are planning on selling many of our excess o
 ### User Stories
 smaller goals based on user storys to create the website so that it fully fulfills its purpose, user storys are based on quotes from local neighbors and family.
 
-User Story:
+User Story 1:
 As a potential customer, I want to browse available plants so that I can see what the nursery offers before visiting. - Must have
 
 Acceptance Criteria:
@@ -22,7 +22,7 @@ Add plant entries with images, names, prices and descriptions.
 Ensure the layout is responsive.
 
 
-User Story:
+User Story 2:
 As a customer, I want to contact the nursery so that I can ask about plant availability or care advice. - Must Have
 
 Acceptance Criteria:
@@ -36,7 +36,7 @@ Add phone number and email address.
 Link the page in the navigation menu.
 
 
-User Story: 
+User Story 3: 
 as a potential customer I want the website to be easily navigable so i dont get lost exploreing the site. - Should have
 
 Acceptance Criteria:
@@ -50,7 +50,7 @@ have a navigation section on everypage
 have the navigation section fit every screen size
 
 
-User Story: 
+User Story 4: 
 As a gardener, I search through a few nursery websites to check and compare the prices, and it's so much easier when the prices are easily and quickly viewable from entering the site. - Could have
 
 Acceptance Criteria:
@@ -64,7 +64,7 @@ have prices in clear font and labelled
 have small sections for each plant and prices in each section
 
 
-User Story:
+User Story 5:
 As a mobile user, I want the website to adapt to my screen size so that I can browse comfortably without zooming or horizontal scrolling.
 
 Acceptance Criteria:
@@ -205,6 +205,15 @@ Contact Us: this page is formatted correctly the gallery format is altered so th
 ### Validator Testing
 HTML: No errors were found when using the official W3C validator on each page
 CSS: No errors were found when using the official (Jigsaw) validator
+
+### User Story testing: 
+| story no. | Action | Expected Result | Actual Result | Pass/Fail |
+| ------------- | ------------- | ------------- | ------------- |
+| 1 | open website view each page | view a page that displays all plants avaliable | see Our plants page that displays plants | pass |
+| 2  | open website look for contact info | find contact information for the nursery | find contact us page that shows info | pass |
+| 3 | open website and try to navigate site | the navigation section is obvious and easy to use | the navigation is top of the site and displays name of each page and links to each page correctly | pass |
+| 4 | open website and try to find easy way to view prices | example prices or links to prices on frount page | a 'View Prices' buttion is displayed on the index page | pass |
+| 5 | open website on mobile device | the website will adjust to the screen size | the layout and sizing adjusts to mobile and tablet screens| pass |
 
 ## Deployment: 
 To deploy this website I entered the settings of the in the repository for new roots nursery then scrolled to the pages section and clicked deploy from branch, then waited and refreshed until the link to the deployed website appeared.
