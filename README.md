@@ -85,6 +85,7 @@ I am planning to have a green colour scheme, as green represents plants, and a f
 
 ### Wireframes
 wireframes are attatched to this read me file
+
 <img width="1024" height="728" alt="wireframe_1_about_us_desktop" src="https://github.com/user-attachments/assets/aaf50038-a62d-4361-812e-395b99bc3ce4" />
 
 On the first page, this page should welcome the user and briefly describe the website and buisness. I plan on having a simplistic layout with a navigation section in the heading, each link leads to another page on this website to allow the user to navigate the website, and in the header on the other side of the navigation section, there is a small logo for the website. Below the nave section is a hero image that I plan to showcase a collection of the plants we have. Under this is a welcoming text introducing the website and business of New Roots Nursery. The next text segment explains more about our plants and how we grow and cultivate them, and what types we usually tend to sell. Besides, this is a small image showcasing more of our plants. a text section describing our prices and deals for our plants next to this text is an image showing off more plants and slightly below the text is a button labeled view prices, this button links to the our plants section so a user could easily access this page and view the prices of our plants and quickly see if they want to continue using this website and our business. The last test segment will describe how we are based in Wesbeach and what areas we plan on delivering to. Next to this is another image depicting a few plants we sell, but below this is a button labeled contact us which links to the contact us page, where users can easily access this page and find the information to contact us. At the bottom of the page is a footer with a copyright label I use this to make the bottom feel less empty and make the website seem more professional.
@@ -150,10 +151,13 @@ Gallery: this is a small gallery of images from around the new roots nursery thi
 ##Development
 Index:
 the background image used is from https://pixabay.com/illustrations/background-pattern-vines-design-6569058/
+
 ![background-vines](https://github.com/user-attachments/assets/f5627204-25cd-414a-9294-c1bb5c5f2d2f)
+
 font from https://fonts.google.com/specimen/EB+Garamond
 
 <img width="54" height="55" alt="image" src="https://github.com/user-attachments/assets/33518a91-315f-45ae-b658-5b4a1227cc50" />
+
 icon is from Font Awesome, https://fontawesome.com
 
 buttons and page templates from bootstrap
@@ -169,24 +173,31 @@ All button links work as intended and link to the correct page including the eas
 
 ###screen sizes 
 Phone screen sizes under 576px wide:
+
 <img width="321" height="548" alt="image" src="https://github.com/user-attachments/assets/01275425-6a01-4e23-a971-393f4e5881de" />
+
 About Us: The page formats correctly on mobile screens as the text and images are now vertically stacked to be easily viewed
 
 <img width="328" height="555" alt="image" src="https://github.com/user-attachments/assets/07daeeea-6310-4d3a-93ac-b57a468e3178" />
+
 Our Plants: The page formats correctly as each of the cards are also stacked vertically so each card is viewed easily
 
 <img width="310" height="546" alt="image" src="https://github.com/user-attachments/assets/bc6bdb06-d024-4fb5-b242-914c305d54bb" />
+
 Contact us: this pages formats correctly as the images in the gallery are stacked so that they can easily fit on the smaller mobile screen to be clearer for the user
 
 tablet screens between 576px wide and 1024px wide:
 
 <img width="582" height="614" alt="image" src="https://github.com/user-attachments/assets/881e91cd-0ba5-47c3-a35b-b92987f2e6a7" />
+
 About Us: this page formats correctly the formatting is changed so that the items on screen are arranged to fill up the screen more so that the page can easily be viewed on this slightly smaller screen.
 
 <img width="592" height="606" alt="image" src="https://github.com/user-attachments/assets/c0f88885-b339-447c-8b0a-849c6f9aacce" />
+
 Our Plants: this page is formated correctly the cards are formated for two per row and are bigger this is to allow them to be bigger on the smaller tablet screen so the user can easlily see the contents of the cards.
 
 <img width="448" height="458" alt="image" src="https://github.com/user-attachments/assets/5b091ff5-3c41-44a5-8e6f-f4954a79857e" />
+
 Contact Us: this page is formatted correctly the gallery format is altered so there is only 3 columns so the images can be bigger allowing users to easily view the images on the smaller screen 
 
 
