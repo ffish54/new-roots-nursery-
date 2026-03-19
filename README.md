@@ -148,7 +148,7 @@ Contact Us info: this text on the Contact Us page describe our contact informati
 
 Gallery: this is a small gallery of images from around the new roots nursery this allows the user to view images around the nursery this also makes the Contact Us page more decorated and visually appealing.
 
-##Development
+## Development
 Index:
 the background image used is from https://pixabay.com/illustrations/background-pattern-vines-design-6569058/
 
@@ -166,12 +166,12 @@ The menu navigation drop down is mostly used from the Love Running project with 
 
 Development: when trying to change the opacity of the background image the whole website's opacity changed as the background was linked to the body's css, after researching I found I can use background-color: rgba(255, 255, 255, 0.4);, where the 4th number setting the opacity, and background-blend-mode: lighten; to change the backgrounds opacity 
 
-##Testing
+## Testing
 
-###links 
+### links 
 All button links work as intended and link to the correct page including the easy link buttons on the About Us page 
 
-###screen sizes 
+### screen sizes 
 Phone screen sizes under 576px wide:
 
 <img width="321" height="548" alt="image" src="https://github.com/user-attachments/assets/01275425-6a01-4e23-a971-393f4e5881de" />
@@ -201,11 +201,11 @@ Our Plants: this page is formated correctly the cards are formated for two per r
 Contact Us: this page is formatted correctly the gallery format is altered so there is only 3 columns so the images can be bigger allowing users to easily view the images on the smaller screen 
 
 
-###Validator Testing
+### Validator Testing
 HTML: No errors were found when using the official W3C validator on each page
 CSS: No errors were found when using the official (Jigsaw) validator
 
-##Deployment: 
+## Deployment: 
 To deploy this website I entered the settings of the in the repository for new roots nursery then scrolled to the pages section and clicked deploy from branch, then waited and refreshed until the link to the deployed website appeared.
 
 
