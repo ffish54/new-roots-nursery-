@@ -207,8 +207,9 @@ HTML: No errors were found when using the official W3C validator on each page
 CSS: No errors were found when using the official (Jigsaw) validator
 
 ### User Story testing: 
+
 | story no. | Action | Expected Result | Actual Result | Pass/Fail |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | open website view each page | view a page that displays all plants avaliable | see Our plants page that displays plants | pass |
 | 2  | open website look for contact info | find contact information for the nursery | find contact us page that shows info | pass |
 | 3 | open website and try to navigate site | the navigation section is obvious and easy to use | the navigation is top of the site and displays name of each page and links to each page correctly | pass |
