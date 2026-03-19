@@ -149,6 +149,38 @@ Contact Us info: this text on the Contact Us page describe our contact informati
 
 Gallery: this is a small gallery of images from around the new roots nursery this allows the user to view images around the nursery this also makes the Contact Us page more decorated and visually appealing.
 
+### colors
+
+<img width="21" height="19" alt="image_2026-03-19_163903956" src="https://github.com/user-attachments/assets/1d9b0d24-18ae-424c-ba9b-e6cb3b03c928" />
+
+rgb: 5, 160, 60
+used for heading background
+
+<img width="28" height="25" alt="image" src="https://github.com/user-attachments/assets/a165851f-51c0-48c1-ac13-23c579463655" />
+
+rgb: 5, 100, 50
+used for navigation drop down background
+
+<img width="40" height="32" alt="image" src="https://github.com/user-attachments/assets/6553d9df-155e-468d-9e5b-20abdd9427e4" />
+
+rgb: 198, 231, 202
+used as primary color for body background
+
+<img width="41" height="31" alt="image" src="https://github.com/user-attachments/assets/465b84d3-906f-4ab8-9673-ee39c45bd148" />
+
+rgb: 90, 205, 105
+used for background color for cards
+
+<img width="60" height="54" alt="image" src="https://github.com/user-attachments/assets/7945207d-3be6-405b-88b8-44fe649cc742" />
+
+rgb: 4, 115, 21
+used for cards border
+
+
+
+
+
+
 ## Development
 Index:
 the background image used is from https://pixabay.com/illustrations/background-pattern-vines-design-6569058/
