@@ -123,7 +123,8 @@ The tablet version of the Contact Us page will have its gallery and text box enl
 
 The mobile version of Contact Us has the navigation section as a dropdown button, and the gallery is enlarged and rearranged so that there is one per row, so they are easier to view on a mobile screen by the user.
 
-##Features
+## Features
+
 <img width="274" height="252" alt="image_2026-02-25_112421923" src="https://github.com/user-attachments/assets/7b8dd655-1424-4abf-b140-58c082657126" />
 
 Navigation - The navigation tab is a drop down from a clickable menu button, this causes a box containing 3 buttons to appear each of the three buttons link to the 3 pages of the site, About Us, Our Plants and Contact Us. this allows the user to traverse the pages easily without needing to use the browsers back button
